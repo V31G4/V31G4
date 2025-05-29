@@ -1,9 +1,9 @@
 ## Hi there! Welcome to my Github profile 👋
 
-- My name is Camille and I'm a Developer, from SC, Brazil 🇧🇷
+- My name is Camille and I'm a Data Analyst, from SC, Brazil 🇧🇷
 
 ## About Me
-- I'm a passionate developer with hands-on experience in Java and web development. Currently interning at TTeT, where I'm enhancing my skills in app development and problem-solving. I love working on challenging projects that push me to learn and grow. My goal is to contribute to innovative solutions while continuously improving my technical abilities.
+- I'm a passionate data analyst with hands-on experience in SQL and Python. I love working on challenging projects that push me to learn and grow. My goal is to contribute to innovative solutions while continuously improving my technical abilities.
 
 ## My Techs
 <div align="left">
